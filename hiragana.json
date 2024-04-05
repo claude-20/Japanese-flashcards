@@ -1,0 +1,232 @@
+{
+  "あ": {
+    "pronunciation": "a",
+    "additional_info": "The basic 'a' sound in Japanese.",
+    "use_case": "あ is often used in words like あめ (ame), which means 'rain' in Japanese."
+  },
+  "い": {
+    "pronunciation": "i",
+    "additional_info": "The basic 'i' sound in Japanese.",
+    "use_case": "い is found in words like いちご (ichigo), meaning 'strawberry' in Japanese."
+  },
+  "う": {
+    "pronunciation": "u",
+    "additional_info": "The basic 'u' sound in Japanese.",
+    "use_case": "う is used in words like ひとつ (hitotsu), which means 'one' in Japanese."
+  },
+  "え": {
+    "pronunciation": "e",
+    "additional_info": "The basic 'e' sound in Japanese.",
+    "use_case": "え can be found in words like せんせい (sensei), meaning 'teacher' in Japanese."
+  },
+  "お": {
+    "pronunciation": "o",
+    "additional_info": "The basic 'o' sound in Japanese.",
+    "use_case": "お is used in words like おかえり (okaeri), which means 'welcome back' in Japanese."
+  },
+  "か": {
+    "pronunciation": "ka",
+    "additional_info": "The 'ka' sound in Japanese.",
+    "use_case": "か is found in words like かさ (kasa), meaning 'umbrella' in Japanese."
+  },
+  "き": {
+    "pronunciation": "ki",
+    "additional_info": "The 'ki' sound in Japanese.",
+    "use_case": "き is used in words like きれい (kirei), which means 'beautiful' or 'clean' in Japanese."
+  },
+  "く": {
+    "pronunciation": "ku",
+    "additional_info": "The 'ku' sound in Japanese.",
+    "use_case": "く can be found in words like くつ (kutsu), meaning 'shoes' in Japanese."
+  },
+  "け": {
+    "pronunciation": "ke",
+    "additional_info": "The 'ke' sound in Japanese.",
+    "use_case": "け is used in words like けさ (kesa), which means 'this morning' in Japanese."
+  },
+  "こ": {
+    "pronunciation": "ko",
+    "additional_info": "The 'ko' sound in Japanese.",
+    "use_case": "こ is found in words like こうえん (kouen), meaning 'park' in Japanese."
+  },
+  "さ": {
+    "pronunciation": "sa",
+    "additional_info": "The 'sa' sound in Japanese.",
+    "use_case": "さ can be found in words like さくら (sakura), which means 'cherry blossom' in Japanese."
+  },
+  "し": {
+    "pronunciation": "shi",
+    "additional_info": "The 'shi' sound in Japanese.",
+    "use_case": "し is used in words like しんぶん (shinbun), meaning 'newspaper' in Japanese."
+  },
+  "す": {
+    "pronunciation": "su",
+    "additional_info": "The 'su' sound in Japanese.",
+    "use_case": "す is found in words like すし (sushi), meaning 'sushi' in Japanese."
+  },
+  "せ": {
+    "pronunciation": "se",
+    "additional_info": "The 'se' sound in Japanese.",
+    "use_case": "せ is used in words like せんたく (sentaku), which means 'laundry' in Japanese."
+  },
+  "そ": {
+    "pronunciation": "so",
+    "additional_info": "The 'so' sound in Japanese.",
+    "use_case": "そ is found in words like そら (sora), meaning 'sky' in Japanese."
+  },
+  "た": {
+    "pronunciation": "ta",
+    "additional_info": "The 'ta' sound in Japanese.",
+    "use_case": "た is used in words like たべる (taberu), which means 'to eat' in Japanese."
+  },
+  "ち": {
+    "pronunciation": "chi",
+    "additional_info": "The 'chi' sound in Japanese.",
+    "use_case": "ち is found in words like ちかん (chikan), meaning 'molester' in Japanese."
+  },
+  "つ": {
+    "pronunciation": "tsu",
+    "additional_info": "The 'tsu' sound in Japanese.",
+    "use_case": "つ is used in words like つくえ (tsukue), which means 'desk' in Japanese."
+  },
+  "て": {
+    "pronunciation": "te",
+    "additional_info": "The 'te' sound in Japanese.",
+    "use_case": "て is found in words like てがみ (tegami), meaning 'letter' in Japanese."
+  },
+  "と": {
+    "pronunciation": "to",
+    "additional_info": "The 'to' sound in Japanese.",
+    "use_case": "と can be found in words like ともだち (tomodachi), which means 'friend' in Japanese."
+  },
+  "な": {
+    "pronunciation": "na",
+    "additional_info": "The 'na' sound in Japanese.",
+    "use_case": "な is used in words like なつ (natsu), which means 'summer' in Japanese."
+  },
+  "に": {
+    "pronunciation": "ni",
+    "additional_info": "The 'ni' sound in Japanese.",
+    "use_case": "に is found in words like にんじん (ninjin), meaning 'carrot' in Japanese."
+  },
+  "ぬ": {
+    "pronunciation": "nu",
+    "additional_info": "The 'nu' sound in Japanese.",
+    "use_case": "ぬ is used in words like ぬま (numa), which means 'swamp' in Japanese."
+  },
+  "ね": {
+    "pronunciation": "ne",
+    "additional_info": "The 'ne' sound in Japanese.",
+    "use_case": "ね is found in words like ねこ (neko), meaning 'cat' in Japanese."
+  },
+  "の": {
+    "pronunciation": "no",
+    "additional_info": "The 'no' sound in Japanese.",
+    "use_case": "の can be found in words like のみもの (nomimono), which means 'drink' in Japanese."
+  },
+  "は": {
+    "pronunciation": "ha",
+    "additional_info": "The 'ha' sound in Japanese.",
+    "use_case": "は is used in words like はな (hana), meaning 'flower' in Japanese."
+  },
+  "ひ": {
+    "pronunciation": "hi",
+    "additional_info": "The 'hi' sound in Japanese.",
+    "use_case": "ひ is found in words like ひと (hito), meaning 'person' in Japanese."
+  },
+  "ふ": {
+    "pronunciation": "fu",
+    "additional_info": "The 'fu' sound in Japanese. Note: 'fu' is often pronounced as 'hu' in some dialects.",
+    "use_case": "ふ can be found in words like ふるさと (furusato), which means 'hometown' in Japanese."
+  },
+  "へ": {
+    "pronunciation": "he",
+    "additional_info": "The 'he' sound in Japanese.",
+    "use_case": "へ is used in words like へや (heya), meaning 'room' in Japanese."
+  },
+  "ほ": {
+    "pronunciation": "ho",
+    "additional_info": "The 'ho' sound in Japanese.",
+    "use_case": "ほ is found in words like ほしい (hoshii), which means 'want' in Japanese."
+  },
+  "ま": {
+    "pronunciation": "ma",
+    "additional_info": "The 'ma' sound in Japanese.",
+    "use_case": "ま is used in words like まど (mado), meaning 'window' in Japanese."
+  },
+  "み": {
+    "pronunciation": "mi",
+    "additional_info": "The 'mi' sound in Japanese.",
+    "use_case": "み can be found in words like みず (mizu), which means 'water' in Japanese."
+  },
+  "む": {
+    "pronunciation": "mu",
+    "additional_info": "The 'mu' sound in Japanese.",
+    "use_case": "む is used in words like むし (mushi), meaning 'insect' in Japanese."
+  },
+  "め": {
+    "pronunciation": "me",
+    "additional_info": "The 'me' sound in Japanese.",
+    "use_case": "め is found in words like めがね (megane), which means 'glasses' in Japanese."
+  },
+  "も": {
+    "pronunciation": "mo",
+    "additional_info": "The 'mo' sound in Japanese.",
+    "use_case": "も can be found in words like もも (momo), which means 'peach' in Japanese."
+  },
+  "や": {
+    "pronunciation": "ya",
+    "additional_info": "The 'ya' sound in Japanese.",
+    "use_case": "や is used in words like やさい (yasai), which means 'vegetable' in Japanese."
+  },
+  "ゆ": {
+    "pronunciation": "yu",
+    "additional_info": "The 'yu' sound in Japanese.",
+    "use_case": "ゆ is found in words like ゆき (yuki), meaning 'snow' in Japanese."
+  },
+  "よ": {
+    "pronunciation": "yo",
+    "additional_info": "The 'yo' sound in Japanese.",
+    "use_case": "よ is used in words like よる (yoru), which means 'night' in Japanese."
+  },
+  "ら": {
+    "pronunciation": "ra",
+    "additional_info": "The 'ra' sound in Japanese.",
+    "use_case": "ら can be found in words like らいねん (rainen), which means 'next year' in Japanese."
+  },
+  "り": {
+    "pronunciation": "ri",
+    "additional_info": "The 'ri' sound in Japanese.",
+    "use_case": "り is used in words like りんご (ringo), meaning 'apple' in Japanese."
+  },
+  "る": {
+    "pronunciation": "ru",
+    "additional_info": "The 'ru' sound in Japanese.",
+    "use_case": "る can be found in words like りゅう (ryuu), which means 'dragon' in Japanese."
+  },
+  "れ": {
+    "pronunciation": "re",
+    "additional_info": "The 're' sound in Japanese.",
+    "use_case": "れ is used in words like れんしゅう (renshuu), meaning 'practice' in Japanese."
+  },
+  "ろ": {
+    "pronunciation": "ro",
+    "additional_info": "The 'ro' sound in Japanese.",
+    "use_case": "ろ is found in words like ろうじん (roujin), meaning 'elderly person' in Japanese."
+  },
+  "わ": {
+    "pronunciation": "wa",
+    "additional_info": "The 'wa' sound in Japanese.",
+    "use_case": "わ is used in words like わたし (watashi), which means 'I' or 'me' in Japanese."
+  },
+  "を": {
+    "pronunciation": "wo",
+    "additional_info": "The 'wo' sound in Japanese. Note: This character is primarily used as a particle and is not often pronounced as 'wo' in modern Japanese.",
+    "use_case": "を is used to mark the direct object of a sentence in Japanese. For example, in the sentence 魚を食べます (sakana wo tabemasu), を (wo) indicates that the action of eating applies to the fish."
+  },
+  "ん": {
+    "pronunciation": "n",
+    "additional_info": "The 'n' sound in Japanese. Note: It can also have a nasal sound resembling 'm' or 'ng' depending on its position in a word.",
+    "use_case": "ん is used in words like こんにちは (konnichiwa), which means 'hello' in Japanese."
+  }
+}

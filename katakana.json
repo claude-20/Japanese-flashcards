@@ -1,0 +1,242 @@
+{
+    "ア": {
+        "pronunciation": "a",
+        "additional_info": "The basic 'a' sound in Japanese Katakana.",
+        "use_case": "ア is often used in words like アメリカ (amerika), which means 'America' in Japanese."
+    },
+    "イ": {
+        "pronunciation": "i",
+        "additional_info": "The basic 'i' sound in Japanese Katakana.",
+        "use_case": "イ is found in words like インターネット (intaanetto), meaning 'internet' in Japanese."
+    },
+    "ウ": {
+        "pronunciation": "u",
+        "additional_info": "The basic 'u' sound in Japanese Katakana.",
+        "use_case": "ウ is used in words like ウォーター (uootaa), which means 'water' in Japanese."
+    },
+    "エ": {
+        "pronunciation": "e",
+        "additional_info": "The basic 'e' sound in Japanese Katakana.",
+        "use_case": "エ can be found in words like エンジン (enjin), meaning 'engine' in Japanese."
+    },
+    "オ": {
+        "pronunciation": "o",
+        "additional_info": "The basic 'o' sound in Japanese Katakana.",
+        "use_case": "オ is used in words like オリンピック (orinpikku), which means 'Olympics' in Japanese."
+    },
+    "カ": {
+        "pronunciation": "ka",
+        "additional_info": "The 'ka' sound in Japanese Katakana.",
+        "use_case": "カ is found in words like カメラ (kamera), meaning 'camera' in Japanese."
+    },
+    "キ": {
+        "pronunciation": "ki",
+        "additional_info": "The 'ki' sound in Japanese Katakana.",
+        "use_case": "キ is used in words like キーボード (kiiboodo), which means 'keyboard' in Japanese."
+    },
+    "ク": {
+        "pronunciation": "ku",
+        "additional_info": "The 'ku' sound in Japanese Katakana.",
+        "use_case": "ク can be found in words like クリーニング (kuriiningu), meaning 'cleaning' in Japanese."
+    },
+    "ケ": {
+        "pronunciation": "ke",
+        "additional_info": "The 'ke' sound in Japanese Katakana.",
+        "use_case": "ケ is used in words like ケーキ (keeki), which means 'cake' in Japanese."
+    },
+    "コ": {
+        "pronunciation": "ko",
+        "additional_info": "The 'ko' sound in Japanese Katakana.",
+        "use_case": "コ is found in words like コーヒー (koohii), meaning 'coffee' in Japanese."
+    },
+    "サ": {
+        "pronunciation": "sa",
+        "additional_info": "The 'sa' sound in Japanese Katakana.",
+        "use_case": "サ can be found in words like サラリーマン (sarariiman), which means 'salaryman' in Japanese."
+    },
+    "シ": {
+        "pronunciation": "shi",
+        "additional_info": "The 'shi' sound in Japanese Katakana.",
+        "use_case": "シ is used in words like シャワー (shawaa), meaning 'shower' in Japanese."
+    },
+    "ス": {
+        "pronunciation": "su",
+        "additional_info": "The 'su' sound in Japanese Katakana.",
+        "use_case": "ス is found in words like スポーツ (supootsu), meaning 'sports' in Japanese."
+    },
+    "セ": {
+        "pronunciation": "se",
+        "additional_info": "The 'se' sound in Japanese Katakana.",
+        "use_case": "セ is used in words like セーター (seetaa), which means 'sweater' in Japanese."
+    },
+    "ソ": {
+        "pronunciation": "so",
+        "additional_info": "The 'so' sound in Japanese Katakana.",
+        "use_case": "ソ is found in words like ソフトウェア (sofutowea), meaning 'software' in Japanese."
+    },
+    "タ": {
+        "pronunciation": "ta",
+        "additional_info": "The 'ta' sound in Japanese Katakana.",
+        "use_case": "タ is used in words like タクシー (takushii), which means 'taxi' in Japanese."
+    },
+    "チ": {
+        "pronunciation": "chi",
+        "additional_info": "The 'chi' sound in Japanese Katakana.",
+        "use_case": "チ is found in words like チョコレート (chokoreeto), meaning 'chocolate' in Japanese."
+    },
+    "ツ": {
+        "pronunciation": "tsu",
+        "additional_info": "The 'tsu' sound in Japanese Katakana.",
+        "use_case": "ツ is used in words like ツアー (tsuaa), which means 'tour' in Japanese."
+    },
+    "テ": {
+        "pronunciation": "te",
+        "additional_info": "The 'te' sound in Japanese Katakana.",
+        "use_case": "テ is found in words like テレビ (terebi), meaning 'television' in Japanese."
+    },
+    "ト": {
+        "pronunciation": "to",
+        "additional_info": "The 'to' sound in Japanese Katakana.",
+        "use_case": "ト can be found in words like トイレ (toire), which means 'toilet' in Japanese."
+    },
+    "ナ": {
+        "pronunciation": "na",
+        "additional_info": "The 'na' sound in Japanese Katakana.",
+        "use_case": "ナ is used in words like ナイフ (naifu), which means 'knife' in Japanese."
+    },
+    "ニ": {
+        "pronunciation": "ni",
+        "additional_info": "The 'ni' sound in Japanese Katakana.",
+        "use_case": "ニ is found in words like ニュース (nyuusu), meaning 'news' in Japanese."
+    },
+    "ヌ": {
+        "pronunciation": "nu",
+        "additional_info": "The 'nu' sound in Japanese Katakana.",
+        "use_case": "ヌ is used in words like ヌードル (nuudoru), which means 'noodle' in Japanese."
+    },
+    "ネ": {
+        "pronunciation": "ne",
+        "additional_info": "The 'ne' sound in Japanese Katakana.",
+        "use_case": "ネ is found in words like ネット (netto), meaning 'net'or 'internet' in Japanese."
+    },
+    "ノ": {
+        "pronunciation": "no",
+        "additional_info": "The 'no' sound in Japanese Katakana.",
+        "use_case": "ノ is used in words like ノート (nooto), which means 'notebook' in Japanese."
+    },
+    "ハ": {
+        "pronunciation": "ha",
+        "additional_info": "The 'ha' sound in Japanese Katakana.",
+        "use_case": "ハ is found in words like ハンバーガー (hanbaagaa), meaning 'hamburger' in Japanese."
+    },
+    "ヒ": {
+        "pronunciation": "hi",
+        "additional_info": "The 'hi' sound in Japanese Katakana.",
+        "use_case": "ヒ is used in words like ヒーター (hiitaa), which means 'heater' in Japanese."
+    },
+    "フ": {
+        "pronunciation": "fu",
+        "additional_info": "The 'fu' sound in Japanese Katakana.",
+        "use_case": "フ can be found in words like フィルム (firumu), which means 'film' in Japanese."
+    },
+    "ヘ": {
+        "pronunciation": "he",
+        "additional_info": "The 'he' sound in Japanese Katakana.",
+        "use_case": "ヘ is used in words like ヘルメット (herumetto), meaning 'helmet' in Japanese."
+    },
+    "ホ": {
+        "pronunciation": "ho",
+        "additional_info": "The 'ho' sound in Japanese Katakana.",
+        "use_case": "ホ is found in words like ホテル (hoteru), which means 'hotel' in Japanese."
+    },
+    "マ": {
+        "pronunciation": "ma",
+        "additional_info": "The 'ma' sound in Japanese Katakana.",
+        "use_case": "マ is used in words like マンガ (manga), which means 'comic' in Japanese."
+    },
+    "ミ": {
+        "pronunciation": "mi",
+        "additional_info": "The 'mi' sound in Japanese Katakana.",
+        "use_case": "ミ can be found in words like ミルク (miruku), which means 'milk' in Japanese."
+    },
+    "ム": {
+        "pronunciation": "mu",
+        "additional_info": "The 'mu' sound in Japanese Katakana.",
+        "use_case": "ム is used in words like ムービー (muubii), meaning 'movie' in Japanese."
+    },
+    "メ": {
+        "pronunciation": "me",
+        "additional_info": "The 'me' sound in Japanese Katakana.",
+        "use_case": "メ is found in words like メール (meeru), which means 'email' in Japanese."
+    },
+    "モ": {
+        "pronunciation": "mo",
+        "additional_info": "The 'mo' sound in Japanese Katakana.",
+        "use_case": "モ can be found in words like モニター (monitaa), which means 'monitor' in Japanese."
+    },
+    "ヤ": {
+        "pronunciation": "ya",
+        "additional_info": "The 'ya' sound in Japanese Katakana.",
+        "use_case": "ヤ is used in words like ヤング (yangu), which means 'young' in Japanese."
+    },
+    "ユ": {
+        "pronunciation": "yu",
+        "additional_info": "The 'yu' sound in Japanese Katakana.",
+        "use_case": "ユ is found in words like ユニフォーム (yunifo-mu), which means 'uniform' in Japanese."
+    },
+    "ヨ": {
+        "pronunciation": "yo",
+        "additional_info": "The 'yo' sound in Japanese Katakana.",
+        "use_case": "ヨ is used in words like ヨーロッパ (yooroppa), which means 'Europe' in Japanese."
+    },
+    "ラ": {
+        "pronunciation": "ra",
+        "additional_info": "The 'ra' sound in Japanese Katakana.",
+        "use_case": "ラ can be found in words like ライオン (raion), which means 'lion' in Japanese."
+    },
+    "リ": {
+        "pronunciation": "ri",
+        "additional_info": "The 'ri' sound in Japanese Katakana.",
+        "use_case": "リ is used in words like リンゴ (ringo), meaning 'apple' in Japanese."
+    },
+    "ル": {
+        "pronunciation": "ru",
+        "additional_info": "The 'ru' sound in Japanese Katakana.",
+        "use_case": "ル can be found in words like ルール (ruuru), which means 'rule' in Japanese."
+    },
+    "レ": {
+        "pronunciation": "re",
+        "additional_info": "The 're' sound in Japanese Katakana.",
+        "use_case": "レ is used in words like レストラン (resutoran), meaning 'restaurant' in Japanese."
+    },
+    "ロ": {
+        "pronunciation": "ro",
+        "additional_info": "The 'ro' sound in Japanese Katakana.",
+        "use_case": "ロ is found in words like ロボット (robotto), which means 'robot' in Japanese."
+    },
+    "ワ": {
+        "pronunciation": "wa",
+        "additional_info": "The 'wa' sound in Japanese Katakana.",
+        "use_case": "ワ is used in words like ワイン (wain), which means 'wine' in Japanese."
+    },
+    "ヰ": {
+        "pronunciation": "wi",
+        "additional_info": "The 'wi' sound in archaic Japanese Katakana.",
+        "use_case": "ヰ is an archaic character and is not commonly used in modern Japanese."
+    },
+    "ヱ": {
+        "pronunciation": "we",
+        "additional_info": "The 'we' sound in archaic Japanese Katakana.",
+        "use_case": "ヱ is an archaic character and is not commonly used in modern Japanese."
+    },
+    "ヲ": {
+        "pronunciation": "wo",
+        "additional_info": "The 'wo' sound in Japanese Katakana. Note: This character is primarily used as a particle and is not often pronounced as 'wo' in modern Japanese.",
+        "use_case": "ヲ is used to mark the direct object of a sentence in Japanese."
+    },
+    "ン": {
+        "pronunciation": "n",
+        "additional_info": "The 'n' sound in Japanese Katakana. Note: It can also have a nasal sound resembling 'm' or 'ng' depending on its position in a word.",
+        "use_case": "ン is used in words like オリンピック (orinpikku), which means 'Olympics' in Japanese."
+    }
+}
