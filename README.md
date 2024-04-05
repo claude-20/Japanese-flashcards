@@ -1,6 +1,7 @@
 # Japanese Character Flashcards
 
-#### Video Demo: [URL HERE](https://youtu.be/rBpWYcpnjSM)
+#### Video Demo: [![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube&logoColor=white)](https://youtu.be/rBpWYcpnjSM)
+
 
 #### Description:
 This Python program helps users learn Japanese characters (Hiragana or Katakana) through flashcards. The program randomly selects a character, displays its flashcard, and prompts the user to guess the pronunciation. It provides feedback on correctness and allows multiple attempts.
